@@ -23,7 +23,6 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=Tableau\&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge\&logo=github\&logoColor=white)
 
 
