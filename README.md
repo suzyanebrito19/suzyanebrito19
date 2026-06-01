@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&random=false&width=524&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+perfil" alt="Typing SVG">
+  </a>
+</div>
+
 #  About Me:
 - 🎓 Formada em Ciência da Computação  
 - 📊 Focada em Análise de Dados  
@@ -31,8 +37,7 @@
 
 
 # GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=suzyanebrito19&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=suzyanebrito19&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=suzyanebrito19&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://streak-stats.demolab.com/?user=suzyanebrito19&theme=midnight-purple&hide_border=false)<br/>
 
 
 ##  GitHub Trophies
