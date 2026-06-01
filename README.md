@@ -38,9 +38,9 @@
 
 <div align="left" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=suzyanebrito19&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="160" src="https://github-readme-stats.shion.dev/api?username=suzyanebrito19&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"/>
 
-  <img height="180" src="https://streak-stats.demolab.com/?user=suzyanebrito19&theme=midnight-purple&hide_border=false"/>
+  <img height="160" src="https://streak-stats.demolab.com/?user=suzyanebrito19&theme=midnight-purple&hide_border=false"/>
 
 </div>
 
