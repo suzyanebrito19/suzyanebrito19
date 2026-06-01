@@ -44,9 +44,6 @@
 
 </div>
 
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=suzyanebrito19&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=suzyanebrito19&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
