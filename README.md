@@ -35,8 +35,14 @@
 
 
 # GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=suzyanebrito19&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://streak-stats.demolab.com/?user=suzyanebrito19&theme=midnight-purple&hide_border=false)<br/>
 
+<div align="left" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=suzyanebrito19&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"/>
+
+  <img height="180" src="https://streak-stats.demolab.com/?user=suzyanebrito19&theme=midnight-purple&hide_border=false"/>
+
+</div>
 
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=suzyanebrito19&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
