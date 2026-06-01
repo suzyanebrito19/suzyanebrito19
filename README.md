@@ -5,10 +5,10 @@
 </div>
 
 #  About Me:
-- 🎓 Formada em Ciência da Computação  
-- 📊 Focada em Análise de Dados  
-- 📈 Experiência com SQL, Excel e Power BI  
-- 💡 Transformando dados em insights para tomada de decisão  
+- Formada em Ciência da Computação  
+- Focada em Análise de Dados  
+- Experiência com SQL, Excel e Power BI  
+- Transformando dados em insights para tomada de decisão  
 
 ## Socials:
 
@@ -32,8 +32,6 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=Canva\&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge\&logo=github\&logoColor=white)
-
-
 
 
 # GitHub Stats:
