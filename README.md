@@ -6,10 +6,10 @@
 
 #  About Me:
 - Formada em Ciência da Computação  
-- Focada em Análise de Dados  
-- Experiência com SQL, Excel e Power BI  
-- Transformando dados em insights para tomada de decisão  
-
+- Analista de Dados em formação  
+- Foco em análise de comportamento e geração de insights  
+- ransformo dados em decisões estratégicas através de SQL, Python e visualização de dados
+  
 ## Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/suzyanebrito)
