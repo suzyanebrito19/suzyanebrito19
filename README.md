@@ -6,9 +6,11 @@
 
 #  About Me:
 - Formada em Ciência da Computação  
-- Analista de Dados em formação  
-- Foco em análise de comportamento e geração de insights  
-- ransformo dados em decisões estratégicas através de SQL, Python e visualização de dados
+- Pós-graduação em Análise de Dados  
+- Pós-graduação Ciência de Dados e Inteligência Artificial 
+- Foco em análise de dados, comportamento e geração de insights  
+- Transformo dados em decisões estratégicas com SQL, Python e visualização de dados  
+
   
 #  Tech Stack:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
