@@ -20,16 +20,17 @@ Cientista da Computação graduada pela UEA e pós-graduanda em Análise de Dado
 ![Tableau](https://img.shields.io/badge/Tableau-3A3A3A?style=for-the-badge&logo=tableau&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-3A3A3A?style=for-the-badge&logo=github&logoColor=white)
 
-# GitHub Stats:
+# GitHub Stats
 
 <div align="left" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-  <img height="160" src="https://github-readme-stats.shion.dev/api?username=suzyanebrito19&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="160" src="https://github-readme-stats.shion.dev/api?username=suzyanebrito19&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 
-  <img height="160" src="https://streak-stats.demolab.com/?user=suzyanebrito19&theme=midnight-purple&hide_border=false"/>
+  <img height="160" src="https://streak-stats.demolab.com/?user=suzyanebrito19&theme=dark&hide_border=false"/>
 
 </div>
 
+</div>
 
 #  Contato:
 
