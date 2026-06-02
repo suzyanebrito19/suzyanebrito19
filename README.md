@@ -5,7 +5,9 @@
 </div>
 
 #  About Me
-Cientista da Computação graduada pela UEA e pós-graduanda em Análise de Dados e Business Intelligence. Sou focada em transformar dados complexos em inteligência de mercado, relatórios visuais e soluções automatizadas que geram valor direto para o negócio. Tenho experiência prática no desenvolvimento de pipelines, manipulação de grandes volumes de dados e modelagem de métricas e dashboards estratégicos que apoiam a liderança na tomada de decisões eficientes.
+<p align="justify">
+  Cientista da Computação graduada pela UEA e pós-graduanda em Análise de Dados e Business Intelligence. Sou focada em transformar dados complexos em inteligência de mercado, relatórios visuais e soluções automatizadas que geram valor direto para o negócio. Tenho experiência prática no desenvolvimento de pipelines, manipulação de grandes volumes de dados e modelagem de métricas e dashboards estratégicos que apoiam a liderança na tomada de decisões eficientes.
+</p>
 
 #  Tech Stack
 ![SQL](https://img.shields.io/badge/SQL-3A3A3A?style=for-the-badge&logo=mysql&logoColor=white)
