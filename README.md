@@ -34,9 +34,8 @@ Cientista da Computação graduada pela UEA e pós-graduanda em Análise de Dado
 
 # Entre em contato comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/suzyanebrito)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suzyane.brito.analytics@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suzyanebrito19)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suzyane.brito.analytics@gmail.com)
 
 
 
