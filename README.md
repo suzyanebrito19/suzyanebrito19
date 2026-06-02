@@ -4,10 +4,10 @@
 </a>
 </div>
 
-#  About Me:
+#  About Me
 Cientista da Computação graduada pela UEA e pós-graduanda em Análise de Dados e Business Intelligence. Sou focada em transformar dados complexos em inteligência de mercado, relatórios visuais e soluções automatizadas que geram valor direto para o negócio. Tenho experiência prática no desenvolvimento de pipelines, manipulação de grandes volumes de dados e modelagem de métricas e dashboards estratégicos que apoiam a liderança na tomada de decisões eficientes.
 
-#  Tech Stack:
+#  Tech Stack
 ![SQL](https://img.shields.io/badge/SQL-3A3A3A?style=for-the-badge&logo=mysql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-3A3A3A?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/Redshift-3A3A3A?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -32,7 +32,7 @@ Cientista da Computação graduada pela UEA e pós-graduanda em Análise de Dado
 
 </div>
 
-#  Contato:
+# Entre em contato comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/suzyanebrito)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suzyane.brito.analytics@gmail.com)
