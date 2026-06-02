@@ -8,20 +8,17 @@
 Cientista da Computação graduada pela UEA e pós-graduanda em Análise de Dados e Business Intelligence. Sou focada em transformar dados complexos em inteligência de mercado, relatórios visuais e soluções automatizadas que geram valor direto para o negócio. Tenho experiência prática no desenvolvimento de pipelines, manipulação de grandes volumes de dados e modelagem de métricas e dashboards estratégicos que apoiam a liderança na tomada de decisões eficientes.
 
 #  Tech Stack:
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=matplotlib\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=Tableau\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge\&logo=github\&logoColor=white)
-
+![SQL](https://img.shields.io/badge/SQL-3A3A3A?style=for-the-badge&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-3A3A3A?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Redshift-3A3A3A?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-3A3A3A?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3A3A3A?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-3A3A3A?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-3A3A3A?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-3A3A3A?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-3A3A3A?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-3A3A3A?style=for-the-badge&logo=tableau&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-3A3A3A?style=for-the-badge&logo=github&logoColor=white)
 
 # GitHub Stats:
 
