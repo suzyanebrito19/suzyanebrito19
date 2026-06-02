@@ -1,17 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=Ol%C3%A1%2C+bem-vindo(a)+ao+meu+GitHub" alt="Typing SVG">
-  </a>
+</a>
 </div>
 
 #  About Me:
-- Formada em Ciência da Computação  
-- Pós-graduação em Análise de Dados  
-- Pós-graduação Ciência de Dados e Inteligência Artificial 
-- Foco em análise de dados, comportamento e geração de insights  
-- Transformo dados em decisões estratégicas com SQL, Python e visualização de dados  
+Cientista da Computação graduada pela UEA e pós-graduanda em Análise de Dados e Business Intelligence. Sou focada em transformar dados complexos em inteligência de mercado, relatórios visuais e soluções automatizadas que geram valor direto para o negócio. Tenho experiência prática no desenvolvimento de pipelines, manipulação de grandes volumes de dados e modelagem de métricas e dashboards estratégicos que apoiam a liderança na tomada de decisões eficientes.
 
-  
 #  Tech Stack:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
