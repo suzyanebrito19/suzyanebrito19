@@ -39,6 +39,10 @@ Atuo na transformação de dados em insights acionáveis, com foco em análise e
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suzyanebrito19)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suzyane.brito.analytics@gmail.com)
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suzyanebrito19&theme=github_dark" width="100%" alt="GitHub Stats" />
+</p>
+
 
       
         
