@@ -7,7 +7,7 @@
 #  About Me
 
 <p align="justify">
-  Cientista da Computação formada pela UEA e pós-graduanda em Análise de Dados e Business Intelligence.
+  Cientista da computação formada pela UEA e pós-graduanda em análise de dados e business intelligence.
 Atuo na transformação de dados em insights acionáveis, com foco em análise exploratória, construção de dashboards e apoio à tomada de decisão. Tenho experiência prática com SQL, Python e ferramentas de visualização, desenvolvendo análises que conectam dados ao contexto de negócio.
  Meu interesse está em entender comportamento, identificar padrões e gerar soluções orientadas a dados que tragam clareza e direcionamento estratégico.
 </p>
